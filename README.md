@@ -39,4 +39,4 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
+[![Linkedin](https://img.shields.io/badge/-Julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
