@@ -34,9 +34,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
-<br/>
-
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
