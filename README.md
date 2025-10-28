@@ -23,8 +23,8 @@
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=White&style=for-the-badge)
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=White&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=White&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=White&style=for-the-badge)
 
 
