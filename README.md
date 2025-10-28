@@ -23,18 +23,19 @@
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=White&style=for-the-badge)
 ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=White&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=White&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=White&style=for-the-badge)
 
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-007ACC?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Julia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
