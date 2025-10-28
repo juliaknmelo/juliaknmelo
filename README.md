@@ -8,7 +8,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Tecnologias**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -18,6 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 
 **Utilidades**
 
