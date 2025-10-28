@@ -31,7 +31,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-007ACC?logo=visual-studio&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-764ABC?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
