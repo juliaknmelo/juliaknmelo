@@ -1,16 +1,31 @@
-
+# Olá, eu sou a Julia 👋
 
 ## Sobre mim
 
 - 🤔 Em constante aprendizado sobre novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Santo Amaro.
+- 🎓 Estudando Gestão da Tecnologia da Informação.
 - 🌱 Aprendendo mais sobre Java, JavaScript e React.
 
-## Minhas Skills
+## Minhas Skills 💻
 
-**Tecnologias**
+### Tecnologias 
+- **Java**
+- **Kotlin**
+- **TypeScript**
+- **Angular**
+- **ReactJS**
+- **.Net**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+## Meus projetos💡
+- **Nexus - Agência de Viagens** - Esta aplicação web foi desenvolvida para a venda de pacotes de viagem e gerenciamento administrativo. Com frontend e backend integrados, oferece uma experiência completa e responsiva.
+- **Blog Pessoal** - Projeto de uma plataforma de blog, com as funcionalidades de CRUD de postagens e temas de postagens, além do perfil do usuário. O projeto foi desenvolvido na finalização do bootcamp da Generation Brasil.
+- **Prime - Bank ** - App mobile em Kotlin de uma instituição bancária, com login, transações de pix, pagamentos de boletos e transferências DOC; gestão de gastos de cartão de crédito, gestão de cartões e cartão virtual e FAQ.
+
+## Contato 👤
+- E-mail: juliakmelo@outlook.com
+- Linkedin: /in/julia-karen-melo/
+
+<!--![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -39,4 +54,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/julia-karen-melo/)](https://www.linkedin.com/in/julia-karen-melo/)-->
+
